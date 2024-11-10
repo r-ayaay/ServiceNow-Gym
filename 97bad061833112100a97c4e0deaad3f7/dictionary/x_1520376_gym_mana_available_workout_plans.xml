@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ab4d54a9833112100a97c4e0deaad3a4" label="Available workout plans" max_length="40" name="x_1520376_gym_mana_available_workout_plans" type="collection">
+        <element attributes="encode_utf8=false" label="Trainer" max_length="32" name="trainer" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Workouts" max_length="40" name="workouts" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Estimated completion" max_length="40" name="estimated_completion" type="glide_time"/>
+        <index name="index">
+            <element name="trainer"/>
+        </index>
+    </element>
+</database>
