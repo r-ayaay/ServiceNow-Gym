@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Transactions">94a503e5837d12100a97c4e0deaad300</application>
+        <filter/>
+        <name>Transactions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1520376_gym_mana.transactions_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 06:43:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18a503e5837d12100a97c4e0deaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transactions</sys_name>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_update_name>sys_ui_module_18a503e5837d12100a97c4e0deaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 06:43:03</sys_updated_on>
+        <table>x_1520376_gym_mana_transactions</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

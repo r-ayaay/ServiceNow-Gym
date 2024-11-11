@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="Trainer" name="Trainer">4b0b1465833112100a97c4e0deaad3ec</contains>
+        <role display_value="Manager" name="Manager">0f0b9ca5833112100a97c4e0deaad39c</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-10 19:21:16</sys_created_on>
+        <sys_id>8d99a4e9837112100a97c4e0deaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1520376_gym_mana.trainer.x_1520376_gym_mana.manager</sys_name>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_update_name>sys_user_role_contains_8d99a4e9837112100a97c4e0deaad3d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-10 19:21:16</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
