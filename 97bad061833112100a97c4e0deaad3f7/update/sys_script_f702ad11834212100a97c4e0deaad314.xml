@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1520376_gym_mana_available_workout_plans</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Prevent Duplicate Workout Plans</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, gS, gSUtil) {
+    // Check for duplicate workouts in the same Workout Plan
+    var gr = new GlideRecord('x_1520376_gym_mana_workouts'); 
+    gr.addQuery('workout_plan', current.workout_plan); // Ensure this field links to the Workout Plan
+    gr.addQuery('workout_name', current.workout_name); // Ensure this matches your workout field
+    gr.query();
+
+    if (gr.next()) {
+        gs.addErrorMessage('This workout already exists in the selected Workout Plan: ' + current.workout_name);
+        current.setAbortAction(true); // Prevents the record from being inserted
+    }
+})(current, gs, gsUtil);
+]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin.soqueno</sys_created_by>
+        <sys_created_on>2024-11-22 15:18:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f702ad11834212100a97c4e0deaad314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Prevent Duplicate Workout Plans</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_update_name>sys_script_f702ad11834212100a97c4e0deaad314</sys_update_name>
+        <sys_updated_by>admin.soqueno</sys_updated_by>
+        <sys_updated_on>2024-11-22 15:18:57</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=f702ad11834212100a97c4e0deaad314"/>
+</record_update>
