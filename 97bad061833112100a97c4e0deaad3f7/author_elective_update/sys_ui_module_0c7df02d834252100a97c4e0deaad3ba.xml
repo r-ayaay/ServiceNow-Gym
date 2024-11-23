@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Workout Plan-Workouts M2M">887df02d834252100a97c4e0deaad3b7</application>
+        <filter/>
+        <name>Workout Plan-Workouts M2Ms</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1520376_gym_mana.workout_plan_workouts_m2m_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 07:03:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c7df02d834252100a97c4e0deaad3ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Plan-Workouts M2Ms</sys_name>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_update_name>sys_ui_module_0c7df02d834252100a97c4e0deaad3ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 07:03:43</sys_updated_on>
+        <table>x_1520376_gym_mana_workout_plan_workouts_m2m</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</application>
+        <file_path/>
+        <instance_id>415224031b990294c8432f8dee4bcbf6</instance_id>
+        <instance_name>dev255811</instance_name>
+        <name>sys_ui_module_0c7df02d834252100a97c4e0deaad3ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Workout Plan-Workouts M2M">887df02d834252100a97c4e0deaad3b7</application><filter/><name>Workout Plan-Workouts M2Ms</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1520376_gym_mana.workout_plan_workouts_m2m_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-23 07:03:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0c7df02d834252100a97c4e0deaad3ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Workout Plan-Workouts M2Ms</sys_name><sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package><sys_policy/><sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope><sys_update_name>sys_ui_module_0c7df02d834252100a97c4e0deaad3ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-23 07:03:43</sys_updated_on><table>x_1520376_gym_mana_workout_plan_workouts_m2m</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1290723772</payload_hash>
+        <record_name>Workout Plan-Workouts M2Ms</record_name>
+        <reverted_from/>
+        <source>9d3e18e5834e12100a97c4e0deaad381</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 07:03:43</sys_created_on>
+        <sys_id>0c7df02d834252100a97c4e0deaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19357d5682b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 07:03:43</sys_updated_on>
+        <type>Module</type>
+        <update_guid>007df02daa425210a5dc76171056f4bd</update_guid>
+        <update_guid_history>007df02daa425210a5dc76171056f4bd:1290723772</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 07:29:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>367a278abd2147ee8e28ba4cbb1b5064</sys_id>
+        <sys_metadata>0c7df02d834252100a97c4e0deaad3ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Plan-Workouts M2Ms</sys_name>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_scope_delete display_value="">11732b1b4e474148b5be648d9f3c4424</sys_scope_delete>
+        <sys_update_name>sys_ui_module_0c7df02d834252100a97c4e0deaad3ba</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_0c7df02d834252100a97c4e0deaad3ba">0c7df02d834252100a97c4e0deaad3bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 07:29:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

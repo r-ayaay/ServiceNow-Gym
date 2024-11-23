@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f1158bed833d12100a97c4e0deaad3be" extends="task" label="Transactions" max_length="40" name="x_1520376_gym_mana_transactions" type="collection">
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Member" max_length="32" name="member" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Member" max_length="32" name="member" reference="sys_user" reference_qual="roles=Member^EQ" reference_qual_condition="roles=Member^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Workout Plan" max_length="32" name="workout_plan" reference="x_1520376_gym_mana_available_workout_plans" type="reference"/>
     </element>
 </database>
