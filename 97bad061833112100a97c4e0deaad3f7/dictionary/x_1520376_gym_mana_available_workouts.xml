@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ba0c1c29833112100a97c4e0deaad341" label="Available Workouts" max_length="40" name="x_1520376_gym_mana_available_workouts" type="collection">
+    <element db_object_id="ba0c1c29833112100a97c4e0deaad341" label="Workouts" max_length="40" name="x_1520376_gym_mana_available_workouts" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="500" name="description" type="string"/>
     </element>
 </database>

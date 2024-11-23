@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90c9c12d838252100a97c4e0deaad3d7" label="Workout Plan-Workouts M2M" max_length="40" name="x_1520376_gym_mana_workout_plan_workouts_m2m" type="collection">
+        <element label="Workout Plan" max_length="32" name="workout_plan" reference="x_1520376_gym_mana_available_workout_plans" type="reference"/>
+        <element label="Workout" max_length="32" name="workout" reference="x_1520376_gym_mana_available_workouts" type="reference"/>
+        <index name="index">
+            <element name="workout"/>
+        </index>
+        <index name="index2">
+            <element name="workout_plan"/>
+        </index>
+    </element>
+</database>

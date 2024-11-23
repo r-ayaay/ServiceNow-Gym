@@ -4,27 +4,27 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
-            <sys_id>2b7df36d837152100a97c4e0deaad3a0</sys_id>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>52505d6583c252100a97c4e0deaad34c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>workouts</element>
+            <element>u_glide_list_3</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
-            <sys_id>af7df36d837152100a97c4e0deaad3a0</sys_id>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>d6505d6583c252100a97c4e0deaad34c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
-            <sys_id>277df36d837152100a97c4e0deaad3a1</sys_id>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>5e505d6583c252100a97c4e0deaad34c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>estimated_completion</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
-            <sys_id>ab7df36d837152100a97c4e0deaad3a1</sys_id>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>d2505d6583c252100a97c4e0deaad34d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,41 @@
             <element>trainer</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
-            <sys_id>237df36d837152100a97c4e0deaad3a2</sys_id>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>5a505d6583c252100a97c4e0deaad34d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>de505d6583c252100a97c4e0deaad34d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-23 08:26:21</sys_created_on>
+            <sys_id>56505d6583c252100a97c4e0deaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">293dbb2d837152100a97c4e0deaad3a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-23 08:26:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

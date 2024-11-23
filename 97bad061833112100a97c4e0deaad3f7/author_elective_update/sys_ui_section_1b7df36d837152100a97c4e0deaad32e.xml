@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="1b7df36d837152100a97c4e0deaad32e" sys_domain="global" table="x_1520376_gym_mana_available_workout_plans" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
+            <sys_id>6f7df36d837152100a97c4e0deaad3a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">1b7df36d837152100a97c4e0deaad32e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1520376_gym_mana_available_workout_plans</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-11 10:47:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b7df36d837152100a97c4e0deaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1520376_gym_mana_available_workout_plans</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+            <sys_update_name>sys_ui_section_1b7df36d837152100a97c4e0deaad32e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-11 10:47:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</application>
+        <file_path/>
+        <instance_id>415224031b990294c8432f8dee4bcbf6</instance_id>
+        <instance_name>dev255811</instance_name>
+        <name>sys_ui_section_1b7df36d837152100a97c4e0deaad32e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="1b7df36d837152100a97c4e0deaad32e" sys_domain="global" table="x_1520376_gym_mana_available_workout_plans" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-11 10:47:08</sys_created_on>
+            <sys_id>6f7df36d837152100a97c4e0deaad3a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1520376_gym_mana_available_workout_plans" sys_domain="global" view="Default view">1b7df36d837152100a97c4e0deaad32e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-11 10:47:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1520376_gym_mana_available_workout_plans</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-11 10:47:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b7df36d837152100a97c4e0deaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1520376_gym_mana_available_workout_plans</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+            <sys_update_name>sys_ui_section_1b7df36d837152100a97c4e0deaad32e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-11 10:47:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>239367439</payload_hash>
+        <record_name>Workout Plans</record_name>
+        <reverted_from/>
+        <source>7970e59d830212100a97c4e0deaad30d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin.soqueno</sys_created_by>
+        <sys_created_on>2024-11-22 14:58:33</sys_created_on>
+        <sys_id>e980e99d830212100a97c4e0deaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1935461c2b60000001</sys_recorded_at>
+        <sys_updated_by>admin.soqueno</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:58:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a580e99d9b02121020b00fb15b6aff65</update_guid>
+        <update_guid_history>a580e99d9b02121020b00fb15b6aff65:0,c07f2c54830612106df861e1e3488765:-1475510824,637df36dba715210fbcdfdb9fc33e9a8:-955637303,03eef3ed4c715210a8f3c8df729910fa:-1475510824,637df36dba715210fbcdfdb9fc33e9a8:-955637303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 08:26:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>ebd6359188b64ab591d18388737016f1</sys_id>
+        <sys_metadata>1b7df36d837152100a97c4e0deaad32e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1520376_gym_mana_available_workout_plans</sys_name>
+        <sys_package display_value="Gym Management" source="x_1520376_gym_mana">97bad061833112100a97c4e0deaad3f7</sys_package>
+        <sys_parent display_value="Workout Plans">ab4d54a9833112100a97c4e0deaad3a4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">97bad061833112100a97c4e0deaad3f7</sys_scope>
+        <sys_scope_delete display_value="">11732b1b4e474148b5be648d9f3c4424</sys_scope_delete>
+        <sys_update_name>sys_ui_section_1b7df36d837152100a97c4e0deaad32e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_1b7df36d837152100a97c4e0deaad32e">e980e99d830212100a97c4e0deaad365</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 08:26:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
